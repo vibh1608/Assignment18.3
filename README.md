@@ -16,4 +16,6 @@ Create the Inbox Style notification. It should be expandable.
 
     I have run this assignment and screenshot of the output and APK file has been added .
     
+    Notification will be there if the app is running on below API 25 device , above this notification will not be generated .
+    
     
